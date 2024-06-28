@@ -286,7 +286,7 @@ h1 {
 }
 
 .footer_links a {
-    height: 15%;
+    z-index: 50;
     margin-top: 30px;
     margin-right: 15px;
     font-family: "Alegreya Sans SC", sans-serif;
